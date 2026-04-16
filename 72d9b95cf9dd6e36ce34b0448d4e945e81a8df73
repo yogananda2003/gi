@@ -1,0 +1,14 @@
+prime_number.py
+  h_9b907d5b46313e 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "72d9b95cf9dd6e36ce34b0448d4e945e81a8df73",
+  "prompts": {},
+  "humans": {
+    "h_9b907d5b46313e": {
+      "author": "Yogananda.b"
+    }
+  }
+}
